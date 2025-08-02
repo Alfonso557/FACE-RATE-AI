@@ -1,0 +1,7 @@
+{
+  "name": "Valutatore di Bellezza AI",
+  "description": "Un'applicazione basata sull'IA che analizza una foto del tuo viso e fornisce una valutazione di bellezza giocosa da 1 a 10.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
